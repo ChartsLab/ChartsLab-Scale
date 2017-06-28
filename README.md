@@ -13,6 +13,8 @@ graphics. Choosing a scale (even a default decimal interval scale) requires us
 to think about what we are measuring and the meaning of our measurements.
 Ultimately, that choice determines how we interpret a graphic.
 
+![All Scales](/Images/AllScales.PNG)
+
 ## Install
 
 ```html

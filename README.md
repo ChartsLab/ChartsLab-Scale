@@ -82,11 +82,19 @@ x['scale'](50); // 320
 
 Constructs a new [continuous scale](#continuous-scales) with the unit [domain](#continuous_domain) [0, 1], the unit [range](#continuous_range) [0, 1], the [default](https://github.com/d3/d3-interpolate#interpolate) [interpolator](#continuous_interpolate) and [clamping](#continuous_clamp) disabled. Linear scales are a good default choice for continuous quantitative data because they preserve proportional differences. Each range value *y* can be expressed as a function of the domain value *x*: *y* = *mx* + *b*.
 
+![Linear Scale](/Images/LinearScale.PNG)
+
 #### Power Scales
+
+![Power Scale](/Images/PowerScale.PNG)
 
 #### Square Root Scales
 
+![SqRoot Scale](/Images/SqRootScale.PNG)
+
 #### Log Scales
+
+![Log Scale](/Images/LogScale.PNG)
 
 #### Time Scales
 
